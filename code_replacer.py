@@ -1,8 +1,8 @@
 import paramiko
 
-IP = '54.254.245.134'
-USER = 'root'
-PWD = 'cnp200@HW'
+IP = ''
+USER = ''
+PWD = ''
 PY_PATH = '/usr/lib/python2.7/site-packages/'
 
 ssh = paramiko.SSHClient()
